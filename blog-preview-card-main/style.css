@@ -24,6 +24,8 @@ body{
 .box{
     margin-top: 20px;
     padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-radius: 5px;
     font-weight: 800;
     background-color:hsl(47, 88%, 63%);
@@ -66,6 +68,15 @@ p{
 
 .icon span{
     margin-left: 10px;
+}
+
+h2:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+h2{
+    font-weight: 800;
 }
 
 
